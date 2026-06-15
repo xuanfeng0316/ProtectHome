@@ -1,0 +1,6 @@
+name: ProtectHome
+version: 1.0
+main: com.xuanfeng.protecthome.ProtectHome
+api-version: "1.21"
+author: XuanFeng
+description: 保护基地，禁止任何人进入中心点43000,43000半径1000格范围
