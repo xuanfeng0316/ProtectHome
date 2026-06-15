@@ -17,7 +17,8 @@ public final class ProtectHome extends JavaPlugin implements Listener {
     //Replace this with the actual player name you need to exclude.
     private static final Set<String> WHITELIST = new HashSet<>(Arrays.asList(
         "xuanfeng0316",
-        "YaoZhouYi"
+        "YaoZhouyi",
+        "Zhouyi2013"
     ));
 
     private static final int CENTER_X = 43000;//Replace with the x coordinate of the center point.
